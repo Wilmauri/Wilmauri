@@ -6,6 +6,6 @@ I'm from the Dominican Republic. Student (soon to be changed) of software engine
 - ## 🔨 I’m looking to collaborate on anything! 
 - ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:wilmauridiazcamacho@gmail.com)
+[<img src="Assets/envelope.png" height="50px">](mailto:wilmauridiazcamacho@gmail.com)
 [<img src="assets/phone.png" height="50px">] : (+1)849-249-1528
 
